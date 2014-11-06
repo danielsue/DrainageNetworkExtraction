@@ -1,0 +1,16 @@
+!!==================================================
+!! This file is used as the input file for drainage extraction
+!!==================================================
+!
+!source mesh file to split
+!
+SOURCE MESH
+!
+!mesh file, relative path
+!
+all.2dm
+!
+!Drainage extraction information
+!
+DRAINAGE INFOMATION FILE
+DEResult.info

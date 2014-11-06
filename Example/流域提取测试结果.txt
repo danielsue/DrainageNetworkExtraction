@@ -1,0 +1,197 @@
+bdspace400.2dm
+Triangles Amount
+27501
+Nodes Amount
+14092
+ Update Time:2008-10-25
+ Mesh file:bdspace400.2dm
+ Area Threshold:  0.0000000E+00
+ Typical Elevation:   260.0000
+ Log File:DEResult.info
+ Reading data ...
+ Time elapse:  0.125000000000000      seconds
+ Making Tin topology...
+ Time elapse:  3.125000000000000E-002 seconds
+ Revise flat area ...
+ Elevation provisionally adjusted counts:        1838
+ Time elapse:  0.000000000000000E+000 seconds
+ Mark derpession bottom ...
+ There exist        1010 depression bottom points
+ Time elapse:  0.000000000000000E+000 seconds
+ Calculating water flow simulation ...
+ Time elapse:  1.562500000000000E-002 seconds
+ Making drainage networks...
+ Normal Drainages:          60  ,Triangles:         461
+ Depressions(pseudo):        2049  ,triangles:       27040
+ Total Drainages:        2109  ,Total Triangles:       27501
+ Total Area:  1.7395456E+09
+ Time elapse:  0.000000000000000E+000 seconds
+ Revise Drainage networks...
+ Check Normal Drainages:        2109  ,Total Triangles:       27501
+ Total Area(sq.m):  1.7395456E+09
+ Check Normal Drainages:        1070  ,Total Triangles:       27501
+ Total Area(sq.m):  1.7395460E+09
+ Check Normal Drainages:          60  ,Total Triangles:       27501
+ Total Area(sq.m):  1.7395444E+09
+ Time elapse:  0.109375000000000      seconds
+ Calculate flow path and flux...
+ Total Area after revise:  1.7395443E+09
+ Time elapse:  1.562500000000000E-002 seconds
+ Mark outerboundary nodes and nodes that span typical contour line...
+ Time elapse:  1.562500000000000E-002 seconds
+ Calculate terminal point for outlet flow of each drainage...
+ Time elapse:  0.000000000000000E+000 seconds
+ Output drainage extraction information...
+ Time elapse:  0.000000000000000E+000 seconds
+ Please press N if you want to exit, or any other key to export drainage to dxf.
+
+ ..
+===================
+bdspace300.2dm
+Triangles Amount
+46622
+Nodes Amount
+23747
+ Update Time:2008-10-25
+ Mesh file:bdspace300.2dm
+ Area Threshold:  0.0000000E+00
+ Typical Elevation:   260.0000
+ Log File:DEResult.info
+ Reading data ...
+ Time elapse:  0.203125000000000      seconds
+ Making Tin topology...
+ Time elapse:  4.687500000000000E-002 seconds
+ Revise flat area ...
+ Elevation provisionally adjusted counts:        3134
+ Time elapse:  0.000000000000000E+000 seconds
+ Mark derpession bottom ...
+ There exist        1646 depression bottom points
+ Time elapse:  0.000000000000000E+000 seconds
+ Calculating water flow simulation ...
+ Time elapse:  3.125000000000000E-002 seconds
+ Making drainage networks...
+ Normal Drainages:          64  ,Triangles:         495
+ Depressions(pseudo):        3421  ,triangles:       46127
+ Total Drainages:        3485  ,Total Triangles:       46622
+ Total Area:  1.7394235E+09
+ Time elapse:  1.562500000000000E-002 seconds
+ Revise Drainage networks...
+ Check Normal Drainages:        3485  ,Total Triangles:       46622
+ Total Area(sq.m):  1.7394235E+09
+ Check Normal Drainages:        1710  ,Total Triangles:       46622
+ Total Area(sq.m):  1.7394199E+09
+ Check Normal Drainages:          64  ,Total Triangles:       46622
+ Total Area(sq.m):  1.7394195E+09
+ Time elapse:  0.250000000000000      seconds
+ Calculate flow path and flux...
+ Total Area after revise:  1.7394194E+09
+ Time elapse:  3.125000000000000E-002 seconds
+ Mark outerboundary nodes and nodes that span typical contour line...
+ Time elapse:  3.125000000000000E-002 seconds
+ Calculate terminal point for outlet flow of each drainage...
+ Time elapse:  0.000000000000000E+000 seconds
+ Output drainage extraction information...
+ Time elapse:  0.000000000000000E+000 seconds
+ Please press N if you want to exit, or any other key to export drainage to dxf.
+
+ ..
+£½£½£½£½£½£½£½£½£½£½£½£½£½£½£½£½
+bdspace200.2dm
+Triangles Amount
+102566
+Nodes Amount
+51923
+ Update Time:2008-10-25
+ Mesh file:bdspace200.2dm
+ Area Threshold:  0.0000000E+00
+ Typical Elevation:   260.0000
+ Log File:DEResult.info
+ Reading data ...
+ Time elapse:  0.421875000000000      seconds
+ Making Tin topology...
+ Time elapse:  0.125000000000000      seconds
+ Revise flat area ...
+ Elevation provisionally adjusted counts:        7523
+ Time elapse:  1.562500000000000E-002 seconds
+ Mark derpession bottom ...
+ There exist        3414 depression bottom points
+ Time elapse:  0.000000000000000E+000 seconds
+ Calculating water flow simulation ...
+ Time elapse:  6.250000000000000E-002 seconds
+ Making drainage networks...
+ Normal Drainages:         116  ,Triangles:         897
+ Depressions(pseudo):        7196  ,triangles:      101669
+ Total Drainages:        7312  ,Total Triangles:      102566
+ Total Area:  1.7393825E+09
+ Time elapse:  4.687500000000000E-002 seconds
+ Revise Drainage networks...
+ Check Normal Drainages:        7312  ,Total Triangles:      102566
+ Total Area(sq.m):  1.7393825E+09
+ Check Normal Drainages:        3530  ,Total Triangles:      102566
+ Total Area(sq.m):  1.7393842E+09
+ Check Normal Drainages:         116  ,Total Triangles:      102566
+ Total Area(sq.m):  1.7393829E+09
+ Time elapse:  0.796875000000000      seconds
+ Calculate flow path and flux...
+ Total Area after revise:  1.7393842E+09
+ Time elapse:  4.687500000000000E-002 seconds
+ Mark outerboundary nodes and nodes that span typical contour line...
+ Time elapse:  9.375000000000000E-002 seconds
+ Calculate terminal point for outlet flow of each drainage...
+ Time elapse:  0.000000000000000E+000 seconds
+ Output drainage extraction information...
+ Time elapse:  1.562500000000000E-002 seconds
+ Please press N if you want to exit, or any other key to export drainage to dxf.
+
+ ..
+£½£½£½£½£½£½£½£½£½£½£½£½£½£½£½£½£½£½£½£½£½£½
+bdspace100.2dm
+Triangles Amount
+404998
+Nodes Amount
+203766
+ Update Time:2008-10-25
+ Mesh file:bdspace100.2dm
+ Area Threshold:  0.0000000E+00
+ Typical Elevation:   260.0000
+ Log File:DEResult.info
+ Reading data ...
+ Time elapse:   1.64062500000000      seconds
+ Making Tin topology...
+ Time elapse:  0.500000000000000      seconds
+ Revise flat area ...
+ Elevation provisionally adjusted counts:       33036
+ Time elapse:  4.687500000000000E-002 seconds
+ Mark derpession bottom ...
+ There exist       11581 depression bottom points
+ Time elapse:  3.125000000000000E-002 seconds
+ Calculating water flow simulation ...
+ Time elapse:  0.234375000000000      seconds
+ Making drainage networks...
+ Normal Drainages:         242  ,Triangles:        2372
+ Depressions(pseudo):       25440  ,triangles:      402626
+ Total Drainages:       25682  ,Total Triangles:      404998
+ Total Area:  1.7393798E+09
+ Time elapse:  0.187500000000000      seconds
+ Revise Drainage networks...
+ Check Normal Drainages:       25682  ,Total Triangles:      404998
+ Total Area(sq.m):  1.7393798E+09
+ Check Normal Drainages:       11823  ,Total Triangles:      404998
+ Total Area(sq.m):  1.7393716E+09
+ Check Normal Drainages:         242  ,Total Triangles:      404998
+ Total Area(sq.m):  1.7393702E+09
+ Time elapse:   7.21875000000000      seconds
+ Calculate flow path and flux...
+ Total Area after revise:  1.7393686E+09
+ Time elapse:  0.265625000000000      seconds
+ Mark outerboundary nodes and nodes that span typical contour line...
+ Time elapse:  0.671875000000000      seconds
+ Calculate terminal point for outlet flow of each drainage...
+ Time elapse:  0.000000000000000E+000 seconds
+ Output drainage extraction information...
+ Time elapse:  0.000000000000000E+000 seconds
+ Please press N if you want to exit, or any other key to export drainage to dxf.
+
+ ..
+£½£½£½£½£½£½£½£½£½£½£½£½£½£½£½£½£½
+
