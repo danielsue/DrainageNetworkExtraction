@@ -3,8 +3,6 @@ The code is written in Fortran 90/95 and can be compiled in any platform with Fo
 
 ========================================================================
     Fortran Console Application : "DrainageAnalysis" Project Overview
-    Author: Danyang Su 
-    Email: danyang.su@gmail.com
 ========================================================================
 
 The Intel Fortran Console Application Wizard has created this 
